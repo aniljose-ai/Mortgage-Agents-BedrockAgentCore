@@ -1,0 +1,2 @@
+# Add requirements needed for the lambda handler. For example boto3
+requests==2.31.0
